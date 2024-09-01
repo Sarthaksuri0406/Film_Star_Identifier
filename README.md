@@ -1,3 +1,3 @@
 # Title: Celebrity Face Recognition
 ## 1. Methodology
-<img width="1219" alt="Screenshot 2024-09-01 at 3 49 54 PM" src="https://github.com/user-attachments/assets/c1dd4e64-5c9f-4f3a-81fe-8a8589d0e930">
+![Violet and Gray Hexagon Process Diagram](https://github.com/user-attachments/assets/20c3b262-22a4-4b38-bc8d-8920e84d40de)
